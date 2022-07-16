@@ -35,8 +35,7 @@ Whenever a patient visits a hospital it takes a significant amount of time befor
 - Involvement of Backend and API
 
 ## 🙋🏻‍♂️ Contributors
-* [Pushkar Singh](https://github.com/Pushkar03)
 * [Tanya Rastogi](https://github.com/iamtanya-22)
-* [Manogya Mishra](https://github.com/Manogya46)
+* [Pushkar Singh](https://github.com/Pushkar03)
 
-## Made with ❤️ by Team Spam Bytes
+## Made with ❤️ by Team Assassins
