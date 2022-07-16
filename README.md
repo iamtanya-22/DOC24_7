@@ -6,7 +6,7 @@ Whenever a patient visits a hospital it takes a significant amount of time befor
 <br>
 
 ## Demo
-[Click here to see our DOC 24/7 Website](https://iamtanya-22.github.io/DOC24_7.github.io/)
+[<b>Click here </b>](https://iamtanya-22.github.io/DOC24_7.github.io/)to see our DOC 24/7 Website
 (Type in anything as username and 123456 as password)
 
 ## 🛠️ Built With
