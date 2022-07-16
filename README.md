@@ -14,7 +14,10 @@ Whenever a patient visits a hospital it takes a significant amount of time befor
 - CSS
 - Javascript
 - Bootstrap
-- Adobe Illustrator
+- MongoDB
+- Node.js
+- Express.js
+- Adobe XD
 - Figma
 - Adobe Premiere Pro
 
@@ -32,7 +35,7 @@ Whenever a patient visits a hospital it takes a significant amount of time befor
 - App Development
 - Addition of Chatbot
 - Translation of Pages 
-- Involvement of Backend and API
+
 
 ## 🙋🏻‍♂️ Contributors
 * [Pushkar Singh](https://github.com/Pushkar03)
