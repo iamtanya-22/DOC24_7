@@ -37,5 +37,7 @@ Whenever a patient visits a hospital it takes a significant amount of time befor
 ## 🙋🏻‍♂️ Contributors
 * [Tanya Rastogi](https://github.com/iamtanya-22)
 * [Pushkar Singh](https://github.com/Pushkar03)
+* [Manogya Mishra](https://github.com/Manogya46)
+
 
 ## Made with ❤️ by Team Assassins
