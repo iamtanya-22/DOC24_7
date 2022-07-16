@@ -40,4 +40,4 @@ Whenever a patient visits a hospital it takes a significant amount of time befor
 * [Manogya Mishra](https://github.com/Manogya46)
 
 
-## Made with ❤️ by Team Assassins
+## Made with ❤️ by Team Spam Bytes
