@@ -352,7 +352,7 @@ nav ul li a.current{
    
 
     /*Navbar */
-    @media screen and (max-width: 1390px){
+    @media screen and (max-width: 600px){
         /* nav ul{
 	display: none;
 }
