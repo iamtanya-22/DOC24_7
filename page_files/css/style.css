@@ -98,7 +98,7 @@ table tr td button {
       padding: 0 40px 0 50px;
     }
   }
-  @media (max-width: 920px) {
+  @media (max-width: 600px) {
     #navbar2 .menu-btn i{
       display: block;
     }
